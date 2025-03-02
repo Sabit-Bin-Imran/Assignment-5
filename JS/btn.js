@@ -2,11 +2,11 @@ const btn = document.getElementById('btn1').addEventListener('click', function()
     alert('Board updated successfully');
     const taskAssign = document.getElementById('task').innerText
     let taskconverted = parseInt(taskAssign) -1;
-    console.log(taskconverted);
+    
     document.getElementById('task').innerText = taskconverted;
     const navTask = document.getElementById('nav-task').innerText
     let navConverted = parseInt(navTask) +1;
-    console.log(navConverted);
+    
     document.getElementById('nav-task').innerText = navConverted;
     const container = document.getElementById('activity-section');
     const p = document.createElement('p');
@@ -30,11 +30,11 @@ const btn2 = document.getElementById('btn2').addEventListener('click', function(
     alert('Board updated successfully');
     const taskAssign = document.getElementById('task').innerText
     let taskconverted = parseInt(taskAssign) -1;
-    console.log(taskconverted);
+    
     document.getElementById('task').innerText = taskconverted;
     const navTask = document.getElementById('nav-task').innerText
     let navConverted = parseInt(navTask) +1;
-    console.log(navConverted);
+    
     document.getElementById('nav-task').innerText = navConverted;
     const container = document.getElementById('activity-section');
     const p = document.createElement('p');
@@ -56,11 +56,11 @@ const btn3 = document.getElementById('btn3').addEventListener('click', function(
     alert('Board updated successfully');
     const taskAssign = document.getElementById('task').innerText
     let taskconverted = parseInt(taskAssign) -1;
-    console.log(taskconverted);
+    
     document.getElementById('task').innerText = taskconverted;
     const navTask = document.getElementById('nav-task').innerText
     let navConverted = parseInt(navTask) +1;
-    console.log(navConverted);
+    
     document.getElementById('nav-task').innerText = navConverted;
     const container = document.getElementById('activity-section');
     const p = document.createElement('p');
@@ -82,11 +82,11 @@ const btn4 = document.getElementById('btn4').addEventListener('click', function(
     alert('Board updated successfully');
     const taskAssign = document.getElementById('task').innerText
     let taskconverted = parseInt(taskAssign) -1;
-    console.log(taskconverted);
+    
     document.getElementById('task').innerText = taskconverted;
     const navTask = document.getElementById('nav-task').innerText
     let navConverted = parseInt(navTask) +1;
-    console.log(navConverted);
+    
     document.getElementById('nav-task').innerText = navConverted;
     const container = document.getElementById('activity-section');
     const p = document.createElement('p');
@@ -108,11 +108,11 @@ const btn5 = document.getElementById('btn5').addEventListener('click', function(
     alert('Board updated successfully');
     const taskAssign = document.getElementById('task').innerText
     let taskconverted = parseInt(taskAssign) -1;
-    console.log(taskconverted);
+    
     document.getElementById('task').innerText = taskconverted;
     const navTask = document.getElementById('nav-task').innerText
     let navConverted = parseInt(navTask) +1;
-    console.log(navConverted);
+    
     document.getElementById('nav-task').innerText = navConverted;
     const container = document.getElementById('activity-section');
     const p = document.createElement('p');
@@ -134,11 +134,11 @@ const btn6 = document.getElementById('btn6').addEventListener('click', function(
     alert('Board updated successfully');
     const taskAssign = document.getElementById('task').innerText
     let taskconverted = parseInt(taskAssign) -1;
-    console.log(taskconverted);
+    
     document.getElementById('task').innerText = taskconverted;
     const navTask = document.getElementById('nav-task').innerText
     let navConverted = parseInt(navTask) +1;
-    console.log(navConverted);
+    
     document.getElementById('nav-task').innerText = navConverted;
     const container = document.getElementById('activity-section');
     const p = document.createElement('p');
